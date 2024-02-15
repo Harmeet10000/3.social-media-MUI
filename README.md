@@ -1,2 +1,2 @@
 # 3.social-media-MUI
-Social Media Application with rea-time chat feature
+Social Media Application with real-time chat feature
